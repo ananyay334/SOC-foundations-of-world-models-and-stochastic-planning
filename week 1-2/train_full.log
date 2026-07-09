@@ -1,0 +1,84 @@
+Device: mps
+Model: 2,693,578 params, 64 patches/image
+  epoch 1 step 100/390 loss 2.0600
+  epoch 1 step 200/390 loss 1.9889
+  epoch 1 step 300/390 loss 1.9419
+Epoch  1/20 | loss 1.9073 | test acc 41.10% | best 41.10% | 174.1s
+  epoch 2 step 100/390 loss 1.7396
+  epoch 2 step 200/390 loss 1.7187
+  epoch 2 step 300/390 loss 1.6981
+Epoch  2/20 | loss 1.6806 | test acc 49.64% | best 49.64% | 126.8s
+  epoch 3 step 100/390 loss 1.5987
+  epoch 3 step 200/390 loss 1.5858
+  epoch 3 step 300/390 loss 1.5759
+Epoch  3/20 | loss 1.5672 | test acc 53.49% | best 53.49% | 145.4s
+  epoch 4 step 100/390 loss 1.5177
+  epoch 4 step 200/390 loss 1.5169
+  epoch 4 step 300/390 loss 1.5065
+Epoch  4/20 | loss 1.4976 | test acc 56.98% | best 56.98% | 142.9s
+  epoch 5 step 100/390 loss 1.4582
+  epoch 5 step 200/390 loss 1.4561
+  epoch 5 step 300/390 loss 1.4500
+Epoch  5/20 | loss 1.4463 | test acc 59.27% | best 59.27% | 143.4s
+  epoch 6 step 100/390 loss 1.4063
+  epoch 6 step 200/390 loss 1.4074
+  epoch 6 step 300/390 loss 1.4066
+Epoch  6/20 | loss 1.4011 | test acc 61.56% | best 61.56% | 147.9s
+  epoch 7 step 100/390 loss 1.3717
+  epoch 7 step 200/390 loss 1.3662
+  epoch 7 step 300/390 loss 1.3598
+Epoch  7/20 | loss 1.3565 | test acc 61.76% | best 61.76% | 140.9s
+  epoch 8 step 100/390 loss 1.3393
+  epoch 8 step 200/390 loss 1.3352
+  epoch 8 step 300/390 loss 1.3262
+Epoch  8/20 | loss 1.3217 | test acc 64.44% | best 64.44% | 144.7s
+  epoch 9 step 100/390 loss 1.3009
+  epoch 9 step 200/390 loss 1.2903
+  epoch 9 step 300/390 loss 1.2878
+Epoch  9/20 | loss 1.2867 | test acc 67.01% | best 67.01% | 122.5s
+  epoch 10 step 100/390 loss 1.2567
+  epoch 10 step 200/390 loss 1.2531
+  epoch 10 step 300/390 loss 1.2558
+Epoch 10/20 | loss 1.2540 | test acc 67.56% | best 67.56% | 131.7s
+  epoch 11 step 100/390 loss 1.2168
+  epoch 11 step 200/390 loss 1.2190
+  epoch 11 step 300/390 loss 1.2216
+Epoch 11/20 | loss 1.2224 | test acc 68.74% | best 68.74% | 131.2s
+  epoch 12 step 100/390 loss 1.2045
+  epoch 12 step 200/390 loss 1.2027
+  epoch 12 step 300/390 loss 1.1993
+Epoch 12/20 | loss 1.2007 | test acc 69.20% | best 69.20% | 121.5s
+  epoch 13 step 100/390 loss 1.1738
+  epoch 13 step 200/390 loss 1.1739
+  epoch 13 step 300/390 loss 1.1723
+Epoch 13/20 | loss 1.1740 | test acc 71.21% | best 71.21% | 121.9s
+  epoch 14 step 100/390 loss 1.1552
+  epoch 14 step 200/390 loss 1.1530
+  epoch 14 step 300/390 loss 1.1495
+Epoch 14/20 | loss 1.1491 | test acc 71.58% | best 71.58% | 152.1s
+  epoch 15 step 100/390 loss 1.1247
+  epoch 15 step 200/390 loss 1.1328
+  epoch 15 step 300/390 loss 1.1313
+Epoch 15/20 | loss 1.1322 | test acc 72.17% | best 72.17% | 173.8s
+  epoch 16 step 100/390 loss 1.0987
+  epoch 16 step 200/390 loss 1.1047
+  epoch 16 step 300/390 loss 1.1106
+Epoch 16/20 | loss 1.1129 | test acc 72.96% | best 72.96% | 682.0s
+  epoch 17 step 100/390 loss 1.1057
+  epoch 17 step 200/390 loss 1.0992
+  epoch 17 step 300/390 loss 1.0965
+Epoch 17/20 | loss 1.0963 | test acc 73.04% | best 73.04% | 616.1s
+  epoch 18 step 100/390 loss 1.0909
+  epoch 18 step 200/390 loss 1.0927
+  epoch 18 step 300/390 loss 1.0922
+Epoch 18/20 | loss 1.0896 | test acc 73.62% | best 73.62% | 229.9s
+  epoch 19 step 100/390 loss 1.0789
+  epoch 19 step 200/390 loss 1.0792
+  epoch 19 step 300/390 loss 1.0770
+Epoch 19/20 | loss 1.0792 | test acc 73.21% | best 73.62% | 151.9s
+  epoch 20 step 100/390 loss 1.0786
+  epoch 20 step 200/390 loss 1.0775
+  epoch 20 step 300/390 loss 1.0752
+Epoch 20/20 | loss 1.0767 | test acc 73.52% | best 73.62% | 124.3s
+
+Done. Best test accuracy: 73.62%  (saved to vit_cifar10.pt)

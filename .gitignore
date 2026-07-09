@@ -1,0 +1,22 @@
+# datasets (regenerable / large)
+week 1-2/data/
+w1-2/data/
+*.tgz
+*.tar.gz
+*.zst
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# os
+.DS_Store
+
+# scratch
+*.egg-info/
+.venv/
+
+# local editor/agent settings
+.claude/
